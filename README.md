@@ -37,4 +37,3 @@ export PYTHONPATH=<relaxrender绝对目录>
 python3 <文件路径>
 ```
 
-
